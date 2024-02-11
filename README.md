@@ -1,5 +1,7 @@
 # End-to-End-loan-approval-prediction-Sample-project-using-machine-learning
 
+Data collection:https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+
 Loan Eligibility Prediction Project
 Business Problem
 The Loan Eligibility Prediction project aims to create a machine learning model that predicts whether an applicant is eligible for a loan or not. This project addresses the need for automated loan approval processes to streamline decision-making in the financial sector.
